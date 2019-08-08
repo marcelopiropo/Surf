@@ -1,2 +1,3 @@
-# Surf - A Maple package of differential geometry in curved surfaces
+# Surf - A Maple package 
 
+Surfing on surfaces: mathematical modelling in curved spaces and applications
