@@ -1,5 +1,7 @@
-## The Maple package Surf   
-We introduce Surf, a Maple package for differential geometry of surfaces, with functions to ease interdisciplinary modeling in curved systems. The main idea is to have a parametrized surface as input and, as output, a model  system  on  curved  surface. 
+# Surf   
+A Maple package for differential geometry of surfaces, with functions to ease interdisciplinary modeling in curved systems. 
+
+The main idea is to have a parametrized surface as input and, as output, a model  system  on  curved  surface. 
 
 ![](https://github.com/marcelopiropo/Surf/blob/master/img01surf.0012.jpeg)
 
